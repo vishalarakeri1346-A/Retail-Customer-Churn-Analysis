@@ -1,5 +1,4 @@
 # Retail-Customer-Churn-Analysis
-# Retail Customer Churn Analysis
 
 ## Project Overview
 Retail Customer Churn Analysis — end-to-end project demonstrating data cleaning, feature engineering, machine learning, SQL KPIs, and model inference.  
